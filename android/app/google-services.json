@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "734975451672",
+    "firebase_url": "https://chathub-3cbbe-default-rtdb.firebaseio.com",
+    "project_id": "chathub-3cbbe",
+    "storage_bucket": "chathub-3cbbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734975451672:android:795bbb9cba8b86ac6c596d",
+        "android_client_info": {
+          "package_name": "com.example.audioplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734975451672-cu38rifvnoj53n2qop90t9brjp3oi8bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_MDCpth-KxTfTQgheMRGfAn_a6h-A2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734975451672-cu38rifvnoj53n2qop90t9brjp3oi8bv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734975451672-jm1ruqs506ah9dtq5v67es99fhg704e7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.litehub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734975451672:android:b77fb3e82a5acd856c596d",
+        "android_client_info": {
+          "package_name": "com.example.litehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734975451672-cu38rifvnoj53n2qop90t9brjp3oi8bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_MDCpth-KxTfTQgheMRGfAn_a6h-A2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734975451672-cu38rifvnoj53n2qop90t9brjp3oi8bv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734975451672-jm1ruqs506ah9dtq5v67es99fhg704e7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.litehub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
